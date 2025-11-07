@@ -1,2 +1,2 @@
 # AdventOfCode_2024
-Learning Python by solving Advent Of Code Challenges
+ Solving Advent Of Code Challenges in Python
